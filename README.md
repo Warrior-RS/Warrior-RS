@@ -1,4 +1,4 @@
-### Hi there 👋 Hi all, here I will post the code I write so I don't have to keep it on my computer. At the moment it is Python + Selenium  
+### Hi there 👋 Here I will post the code I write so I don't have to keep it on my computer. At the moment it is Python + Selenium  
 
 <!--
 **Warrior-RS/Warrior-RS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
